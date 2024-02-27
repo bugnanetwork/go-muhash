@@ -1,6 +1,6 @@
 module github.com/bugnanetwork/go-muhash
 
-go 1.21.5
+go 1.18
 
 require (
 	github.com/pkg/errors v0.9.1
